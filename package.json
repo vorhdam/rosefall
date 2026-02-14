@@ -1,7 +1,7 @@
 {
-  "name": "nightowl",
-  "displayName": "Nightowl Dark",
-  "description": "Nightowl is a theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.",
+  "name": "rosefall",
+  "displayName": "Rosefall",
+  "description": "Rosefall is a theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.60.0"
@@ -10,7 +10,7 @@
   "icon": "assets/logo.png",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vorhdam/nightowl.git"
+    "url": "git+https://github.com/vorhdam/rosefall.git"
   },
   "categories": [
     "Themes"
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "nightowl",
+        "label": "rosefall",
         "uiTheme": "vs-dark",
-        "path": "./themes/nightowl-color-theme.json"
+        "path": "./themes/rosefall-color-theme.json"
       }
     ]
   }
