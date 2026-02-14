@@ -1,0 +1,6 @@
+.vscode/**
+.vscode-test/**
+assets/banner.png
+.gitignore
+vsc-extension-quickstart.md
+*.env
