@@ -2,7 +2,7 @@
   "name": "rosefall",
   "displayName": "Rosefall",
   "description": "Rosefall is a theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -18,9 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rosefall",
+        "label": "Rosefall Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/rosefall-color-theme.json"
+        "path": "./themes/rosefall-gray-color-theme.json"
+      },
+      {
+        "label": "Rosefall Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rosefall-black-color-theme.json"
+      },
+      {
+        "label": "Rosefall Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rosefall-midnight-color-theme.json"
       }
     ]
   }
