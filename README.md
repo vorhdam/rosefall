@@ -1,7 +1,7 @@
 # Rosefall theme 🥀
 
 <p align="center">
-<img src="./assets/banner.png" width="700px" height="394px"/>
+<img src="./assets/banner.png"/>
 </p>
 
 Rosefall is a Visual Studio Code theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.
