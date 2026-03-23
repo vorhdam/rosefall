@@ -2,7 +2,7 @@
   "name": "rosefall",
   "displayName": "Rosefall",
   "description": "Rosefall is a theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.60.0"
   },
