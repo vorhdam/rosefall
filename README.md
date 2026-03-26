@@ -1,7 +1,7 @@
 # Rosefall theme 🥀
 
 <p align="center">
-    <img src="./assets/banner.png"/>
+    <img src="./assets/header.png"/>
 </p>
 
 Rosefall is a Visual Studio Code theme made for all nighters. It uses darker colors so you are not flashbanged by your own IDE.
@@ -21,10 +21,10 @@ If you are in need of a smooth but dark theme similar to One Dark Pro this is wh
 
 ### Installation:
 
-for Visual Studio Code:
-<br>
+**for Visual Studio Code:**
+
 <code>code --install-extension vorhdam.rosefall</code>
 
-for Cursor:
-<br>
+**for Cursor:**
+
 <code>cursor --install-extension vorhdam.rosefall</code>
